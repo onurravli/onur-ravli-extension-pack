@@ -3,6 +3,9 @@
   "displayName": "Onur Ravli Extension Pack",
   "description": "A curated list of extensions that I am using.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/onurravli/onur-ravli-extension-pack"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
