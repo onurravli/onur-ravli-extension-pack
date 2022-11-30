@@ -1,0 +1,24 @@
+{
+  "name": "onur-ravli-extension-pack",
+  "displayName": "Onur Ravli Extension Pack",
+  "description": "A curated list of extensions that I am using.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools-extension-pack",
+    "donjayamanne.python-extension-pack",
+    "vscjava.vscode-java-pack",
+    "equinusocio.vsc-material-theme",
+    "formulahendry.code-runner",
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "syler.sass-indented",
+    "glenn2223.live-sass",
+    "github.copilot"
+  ]
+}
